@@ -24,6 +24,9 @@ tinyGAN
     \__ data
         \__ mnist_train.csv
         \__ img_align_celeba.zip
+
+// batchSize设置的1
+// 加快迭代可自行修改__getitem__
 ```
 
 ### Sumary
